@@ -1,0 +1,153 @@
+{
+  "name": "Twin Arrows Navajo Casino Resort",
+  "location": {
+    "address": "22181 Resort Blvd, Flagstaff, AZ 86004, USA",
+    "latitude": 35.1731,
+    "longitude": -111.2445
+  },
+  "contact": {
+    "phone": "+1 928-856-7200",
+    "email": null,
+    "website": "https://www.twinarrows.com"
+  },
+  "rooms": {
+    "total_rooms": 200,
+    "types": [
+      {
+        "type": "Deluxe Room",
+        "description": "Spacious room with modern amenities, king or two queen beds.",
+        "amenities": [
+          "Free Wi-Fi",
+          "Flat-screen TV",
+          "Coffee maker",
+          "Mini fridge",
+          "Iron and ironing board"
+        ],
+        "average_price_per_night": 129
+      },
+      {
+        "type": "Executive Suite",
+        "description": "Luxurious suite with separate living area, king bed, and enhanced amenities.",
+        "amenities": [
+          "Free Wi-Fi",
+          "Flat-screen TV",
+          "Coffee maker",
+          "Mini fridge",
+          "Iron and ironing board",
+          "Sofa",
+          "Work desk"
+        ],
+        "average_price_per_night": 199
+      }
+    ]
+  },
+  "restaurants": [
+    {
+      "name": "Zenith Steakhouse",
+      "cuisine": "Steakhouse",
+      "hours": "5:00 PM - 10:00 PM",
+      "description": "Fine dining experience with premium steaks and seafood.",
+      "reservation_required": true
+    },
+    {
+      "name": "Arrows Sports Bar",
+      "cuisine": "American",
+      "hours": "11:00 AM - 12:00 AM",
+      "description": "Casual dining with a wide selection of beers and pub fare.",
+      "reservation_required": false
+    },
+    {
+      "name": "Four Elements Café",
+      "cuisine": "American",
+      "hours": "6:00 AM - 10:00 PM",
+      "description": "Casual café offering breakfast, lunch, and dinner options.",
+      "reservation_required": false
+    },
+    {
+      "name": "Indulgence",
+      "cuisine": "Bakery",
+      "hours": "6:00 AM - 10:00 PM",
+      "description": "Bakery and coffee shop featuring pastries, desserts, and specialty coffee.",
+      "reservation_required": false
+    }
+  ],
+  "entertainment": {
+    "casino": {
+      "games": [
+        "Slot Machines",
+        "Table Games",
+        "Poker Room"
+      ],
+      "hours": "24/7",
+      "age_restriction": 21
+    },
+    "live_entertainment": {
+      "venues": [
+        {
+          "name": "Event Center",
+          "description": "Hosts concerts, comedy shows, and special events.",
+          "capacity": 1000
+        }
+      ],
+      "schedule": null
+    }
+  },
+  "amenities": [
+    "Indoor Pool",
+    "Fitness Center",
+    "Business Center",
+    "Gift Shop",
+    "Free Parking",
+    "Free Wi-Fi"
+  ],
+  "promotions": [
+    {
+      "name": "New Member Bonus",
+      "description": "Sign up for a player's card and receive $10 in free play.",
+      "validity": "Ongoing"
+    },
+    {
+      "name": "Midweek Special",
+      "description": "Book a room from Sunday to Thursday and receive a 20% discount.",
+      "validity": "Ongoing"
+    }
+  ],
+  "policies": {
+    "check_in": "3:00 PM",
+    "check_out": "11:00 AM",
+    "pet_policy": "No pets allowed, service animals only.",
+    "smoking_policy": "Non-smoking property."
+  },
+  "transportation": {
+    "parking": {
+      "self_parking": "Free",
+      "valet_parking": null
+    },
+    "shuttle_service": {
+      "availability": false,
+      "details": null
+    }
+  },
+  "nearby_attractions": [
+    {
+      "name": "Grand Canyon National Park",
+      "distance": "90 miles",
+      "description": "World-renowned natural wonder with stunning views and hiking trails."
+    },
+    {
+      "name": "Walnut Canyon National Monument",
+      "distance": "30 miles",
+      "description": "Historic site featuring ancient cliff dwellings and scenic views."
+    },
+    {
+      "name": "Flagstaff",
+      "distance": "24 miles",
+      "description": "Charming city with shopping, dining, and cultural attractions."
+    }
+  ],
+  "_meta": {
+    "property": "Twin Arrows Navajo Casino Resort",
+    "generated_date": "2026-04-04",
+    "strategy": "LLM-generated from model knowledge."
+  }
+}
